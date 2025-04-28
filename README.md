@@ -4,5 +4,6 @@ Start small, dream big. In Htrae, you grow the land, build thriving villages, nu
 # Features 
 •Expolore islands and expand your land
 •Build a village and grow your population 
-•Fight off hostile human mobs 
+•Fight off hostile human mobs  
+
 •Customize your character 
