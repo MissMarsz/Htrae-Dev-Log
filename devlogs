@@ -1,0 +1,20 @@
+delog_02.md
+  # ✨ Devlog 01 - April 28, 2025
+    
+Welcome to the devlog for Htrae!
+I'll post updates about progress, major changes, ideas, and milestones here!
+    
+Today I started setting up the base for my 2D top-down sandbox game!  
+Players will explore islands, build villages, and survive as animals in a world where humans are hostile mobs.
+
+## Progress
+- ✅ Basic player movement coded
+- ✅ First test tilemap created
+- ✅ Set up GitHub project and first devlog!
+
+## Challenges
+- Linking animation scenes and setting up test files took some trial and error.
+
+## Next Steps
+- [ ] Create composting/farming system for expanding islands
+- [ ] Add basic placeholder mobs (hostile humans)
