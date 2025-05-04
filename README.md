@@ -59,4 +59,4 @@ Start small, dream big. In Htrae, you grow the land, build thriving villages, nu
 
 ## **Contributing**
 Feel free to open issues or submit PRs!  
-Wanna collab or join the crew? [Reach out here](mailto:youremail@example.com)
+Wanna collab or join the crew? [Reach out here](mailto:shayleedayhere@gmail.com)
